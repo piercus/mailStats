@@ -1,0 +1,12 @@
+module.exports = {
+  imap : {
+    user: 'user@gmail.com',
+    password: 'pwd',
+    host: 'imap.gmail.com',
+    port: 993,
+    secure: true
+  },
+  {
+    "Member1" : ["email1", "email2", "email3"]// ...
+  }
+};
